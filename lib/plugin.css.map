@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iBAAiB,CAAC,CAAC,AAAA,IAAI,CAAC;EACpB,KAAK,EAAE,SAAS;EAChB,eAAe,EAAE,SAAS;CAM7B;;AARD,AAII,iBAJa,CAAC,CAAC,AAAA,IAAI,AAIlB,MAAM,CAAC;EACJ,KAAK,EAAE,WAAW;EAClB,eAAe,EAAE,SAAS;CAC7B",
+    "sources": [
+        "plugin.scss"
+    ],
+    "names": [],
+    "file": "plugin.css"
+}

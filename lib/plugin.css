@@ -1,0 +1,10 @@
+.markdown-section a.img {
+  color: orangered;
+  text-decoration: underline;
+}
+
+.markdown-section a.img:hover {
+  color: deepskyblue;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=plugin.css.map */

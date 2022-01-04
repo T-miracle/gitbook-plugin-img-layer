@@ -1,0 +1,9 @@
+.markdown-section a.img {
+    color: orangered;
+    text-decoration: underline;
+
+    &:hover {
+        color: deepskyblue;
+        text-decoration: underline;
+    }
+}
