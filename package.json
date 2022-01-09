@@ -1,12 +1,26 @@
 {
   "name": "gitbook-plugin-img-layer",
   "version": "1.0.0",
-  "description": "",
+  "description": "用于点击图片或者图片链接来全屏展示图片",
   "main": "index.js",
   "engines": {
     "gitbook": ">1.x.x"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Tmiracle",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-miracle/gitbook-plugin-img-layer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/T-miracle/gitbook-plugin-img-layer/issues"
+  },
+  "homepage": "https://github.com/T-miracle/gitbook-plugin-img-layer#readme"
 }
