@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-img-layer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "用于点击图片或者图片链接来全屏展示图片",
   "main": "index.js",
   "engines": {
