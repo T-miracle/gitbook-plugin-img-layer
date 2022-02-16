@@ -9,8 +9,8 @@ module.exports = {
 		imgshow: {
 			shortcuts: {
 				parsers: ["markdown", "asciidoc", "restructuredtext"],
-				start: "{~",
-				end: "~}",
+				start: "{!",
+				end: "}",
 			},
 			process: function (blk) {
 				var imgHTML =
